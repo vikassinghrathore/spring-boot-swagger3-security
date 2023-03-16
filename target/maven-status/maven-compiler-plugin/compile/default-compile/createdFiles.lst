@@ -1,0 +1,5 @@
+com\vks\controller\UserController.class
+com\vks\SpringBootSwagger3SecurityApplication.class
+com\vks\configuration\SecurityConfiguration.class
+com\vks\model\User$UserBuilder.class
+com\vks\model\User.class
